@@ -10,7 +10,7 @@ import { ThemeProvider } from './ThemeContext.jsx';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
-    <Route path="/portfolio" element={<Layout />}>
+    <Route path="/port" element={<Layout />}>
       
       
     </Route>
