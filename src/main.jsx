@@ -6,7 +6,7 @@ import { RouterProvider, createBrowserRouter, createRoutesFromElements, Route } 
 import Layout from './Layout.jsx';
 import Home from './components/Home/Home.jsx';
 import About from './components/About/Certifications.jsx';
-import { ThemeProvider } from './ThemeContext';
+import { ThemeProvider } from './ThemeContext.jsx';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
